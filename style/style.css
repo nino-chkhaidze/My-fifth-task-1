@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container_box{
+    display: flex;
+    justify-content:space-between ;
+   
+    
+    background-color:yellowgreen ;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    border: 2px solid black;
+}
+
+
