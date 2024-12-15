@@ -1,0 +1,32 @@
+@media(max-width:626px){
+    .container_box{
+    flex-wrap: wrap;
+    
+  }
+  .box1{
+    width: 50%;
+  }
+      @media(max-width:600px){
+        .container_box{
+        flex-wrap: wrap;
+        justify-content: center;
+        
+      }
+.box1{
+    width: 80%;
+}
+@media(max-width: 450px){
+    .container_box:nth-child(1){
+           width: 80%;
+    }
+        
+    }
+    
+  }
+.box{
+width: 50%;
+}
+
+
+
+}
